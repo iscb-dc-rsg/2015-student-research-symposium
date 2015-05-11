@@ -1,0 +1,7 @@
+#schedule-table tr td:first-child {
+    font-weight: bold;
+}
+
+#schedule-table td {
+    text-align: left;
+}
