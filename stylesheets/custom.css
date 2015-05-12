@@ -5,3 +5,7 @@
 #schedule-table td {
     text-align: left;
 }
+
+#schedule-table i {
+    font-style: italic;
+}
